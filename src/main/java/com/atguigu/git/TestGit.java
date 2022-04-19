@@ -14,5 +14,6 @@ public class TestGit {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hot-fix commit");
+        System.out.println("hotfix commit test conflict");
     }
 }
