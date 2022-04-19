@@ -18,6 +18,6 @@ public class TestGit {
         System.out.println("hotfix commit test conflict");
         System.out.println("idea push github");
         System.out.println("idea ssh push github");
-
+        System.out.println("idea pull github");
     }
 }
